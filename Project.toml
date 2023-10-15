@@ -1,0 +1,5 @@
+name = "NanophotonicModeling"
+uuid = "bd299c18-f30a-4db4-b1e7-108275c5f2ce"
+authors = ["Jón Schlipf <jon.schlipf@b-tu.de>"]
+version = "0.1.0"
+
